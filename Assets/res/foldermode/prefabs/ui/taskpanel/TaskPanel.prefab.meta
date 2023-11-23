@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: a19b5fc2bd0295a448eac6a4e7ccad8f
+timeCreated: 1700560847
+licenseType: Free
+PrefabImporter:
+  externalObjects: {}
+  addedObjectFileIDs: []
+  isPrefabVariant: 0
+  userData:
+  assetBundleName: res/foldermode/prefabs/ui/taskpanel.bundle
+  assetBundleVariant:

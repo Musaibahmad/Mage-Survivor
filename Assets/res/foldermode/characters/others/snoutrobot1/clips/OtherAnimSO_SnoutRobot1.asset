@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b85780556c37f1035b781c452205b19d, type: 3}
+  m_Name: OtherAnimSO_SnoutRobot1
+  m_EditorClassIdentifier:
+  m_AnimationSOList:
+  - state: Idle
+    clip:
+      _FadeDuration: 0.25
+      _Events:
+        _NormalizedTimes: []
+        _Callbacks: []
+        _Names: []
+      _Clip: {fileID: 7400000, guid: 69ca4c319addfca40a46120492f6c974, type: 2}
+      _Speed: 1
+      _NormalizedStartTime: NaN
+  - state: Walk
+    clip:
+      _FadeDuration: 0.25
+      _Events:
+        _NormalizedTimes: []
+        _Callbacks: []
+        _Names: []
+      _Clip: {fileID: 7400000, guid: ad6d4362338c7774084776ca83c0fb73, type: 2}
+      _Speed: 1
+      _NormalizedStartTime: NaN
+  - state: Run
+    clip:
+      _FadeDuration: 0.25
+      _Events:
+        _NormalizedTimes: []
+        _Callbacks: []
+        _Names: []
+      _Clip: {fileID: 7400000, guid: ad6d4362338c7774084776ca83c0fb73, type: 2}
+      _Speed: 1
+      _NormalizedStartTime: NaN
+  - state: Attack
+    clip:
+      _FadeDuration: 0.25
+      _Events:
+        _NormalizedTimes: []
+        _Callbacks: []
+        _Names: []
+      _Clip: {fileID: 7400000, guid: c0b1dc6259066504da259bdc21a52239, type: 2}
+      _Speed: 1
+      _NormalizedStartTime: NaN
+  - state: Die
+    clip:
+      _FadeDuration: 0.25
+      _Events:
+        _NormalizedTimes: []
+        _Callbacks: []
+        _Names: []
+      _Clip: {fileID: 7400000, guid: e324851cf4b049c45bf079528f00a11a, type: 2}
+      _Speed: 1
+      _NormalizedStartTime: NaN
+  - state: Skill
+    clip:
+      _FadeDuration: 0.25
+      _Events:
+        _NormalizedTimes: []
+        _Callbacks: []
+        _Names: []
+      _Clip: {fileID: 7400000, guid: c3cb64d3d77a2094095b429c831285b1, type: 2}
+      _Speed: 1
+      _NormalizedStartTime: NaN

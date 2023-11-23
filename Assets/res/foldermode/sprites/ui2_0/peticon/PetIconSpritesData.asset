@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 152861061c39657efee1b171fffa696a, type: 3}
+  m_Name: PetIconSpritesData
+  m_EditorClassIdentifier:
+  m_AtlasName: Assets/Res/FolderMode/Sprites/UI2_0/PetIcon
+  m_SpriteList:
+  - {fileID: 21300000, guid: 05a669ebaab5b0642bba3ca11ff7ed96, type: 2}
+  - {fileID: 21300000, guid: 183c0063d5c0887459c541b8757a329e, type: 2}
+  - {fileID: 21300000, guid: 0d5268f6e63b90d4b939517774b8feb6, type: 2}
+  - {fileID: 21300000, guid: 405092fac9494bf40a5a7cd31bd34a07, type: 2}
+  - {fileID: 21300000, guid: 04211b0c0cf205a48bbc0f68dca38cce, type: 2}
+  - {fileID: 21300000, guid: 5942c9e26da23444d9cc5c065d98ec9e, type: 2}
+  - {fileID: 21300000, guid: e97be947be585994884c6719c059b240, type: 2}
+  - {fileID: 21300000, guid: 73b69663ba830394aa1cacfeb52cbc78, type: 2}
+  - {fileID: 21300000, guid: 9e5b2553070d6104c937c4d6f29004b1, type: 2}
+  - {fileID: 21300000, guid: 206dc9a8ccedae747ab62a4da929eb2a, type: 2}
+  - {fileID: 21300000, guid: 57b6d30bf03fc7d428589c4413037aca, type: 2}
+  - {fileID: 21300000, guid: 2cb6eeae89089cb48bbfebb03aea4cfb, type: 2}
+  - {fileID: 21300000, guid: 71a85f9a5ea4e70429e87cbd261ed7fe, type: 2}
+  - {fileID: 21300000, guid: 562baa07a189af74ba961f6df259b858, type: 2}
+  - {fileID: 21300000, guid: 86c105f3921d3724aaf5a7de8dff0c98, type: 2}
+  - {fileID: 21300000, guid: ae0dce1b02ba4aa4dafa070d7e4ff388, type: 2}

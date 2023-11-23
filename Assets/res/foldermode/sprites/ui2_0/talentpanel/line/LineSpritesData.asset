@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 152861061c39657efee1b171fffa696a, type: 3}
+  m_Name: LineSpritesData
+  m_EditorClassIdentifier:
+  m_AtlasName: Assets/Res/FolderMode/Sprites/UI2_0/TalentPanel/Line
+  m_SpriteList:
+  - {fileID: 21300000, guid: 6ecec433d3c62b94aa6f78166a0a4ef5, type: 2}
+  - {fileID: 21300000, guid: 5c6a6e96bce8d3640939ddd554f5addc, type: 2}

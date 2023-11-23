@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: cdde9bc1f6c729c47a8cc4ac699a1685
+timeCreated: 1700560847
+licenseType: Free
+PrefabImporter:
+  externalObjects: {}
+  addedObjectFileIDs: []
+  isPrefabVariant: 0
+  userData:
+  assetBundleName: res/foldermode/prefabs/ui/settingpanel.bundle
+  assetBundleVariant:

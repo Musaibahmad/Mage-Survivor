@@ -1,0 +1,163 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe69e6f336e291951a9b4471280c2118, type: 3}
+  m_Name: IapItemConfig
+  m_EditorClassIdentifier:
+  productConfs:
+  - productId: 1001
+    icon:
+    - {fileID: 21300000, guid: 73c55266298d5f64cae96e6eb9ceca9c, type: 2}
+    type: 0
+    desc: IAP_NoAdDes
+    hint: Shop_adremovename
+    rewardAmount: 800
+    costType: 0
+    costAmount: 0
+  - productId: 1101
+    icon:
+    - {fileID: 21300000, guid: 4b7ebc6110fd73441a1669b01d0609e7, type: 2}
+    type: 5
+    desc:
+    hint: Shop_giftbagname1
+    rewardAmount: 2,160;9,8;22,200;32,200
+    costType: 0
+    costAmount: 0
+  - productId: 1102
+    icon:
+    - {fileID: 21300000, guid: 900948640e309cc4585a8ab3210355a0, type: 2}
+    type: 5
+    desc:
+    hint: Shop_giftbagname2
+    rewardAmount: 2,1200;9,14;23,1000;37,1000
+    costType: 0
+    costAmount: 0
+  - productId: 1103
+    icon:
+    - {fileID: 21300000, guid: d20564bbd5f7ccd4ea604cf8c08ffc12, type: 2}
+    type: 5
+    desc:
+    hint: Shop_giftbagname3
+    rewardAmount: 2,2500;9,5;21,2000;38,2000
+    costType: 0
+    costAmount: 0
+  - productId: 1105
+    icon: []
+    type: 8
+    desc:
+    hint:
+    rewardAmount: 1005
+    costType: 0
+    costAmount: 0
+  - productId: 1106
+    icon: []
+    type: 8
+    desc:
+    hint:
+    rewardAmount: 1006
+    costType: 0
+    costAmount: 0
+  - productId: 1107
+    icon: []
+    type: 9
+    desc:
+    hint:
+    rewardAmount: 1007
+    costType: 0
+    costAmount: 0
+  - productId: 1108
+    icon: []
+    type: 9
+    desc:
+    hint:
+    rewardAmount: 1008
+    costType: 0
+    costAmount: 0
+  - productId: 201
+    icon: []
+    type: 2
+    desc:
+    hint:
+    rewardAmount: 80
+    costType: 0
+    costAmount: 0
+  - productId: 202
+    icon: []
+    type: 2
+    desc:
+    hint:
+    rewardAmount: 500
+    costType: 0
+    costAmount: 0
+  - productId: 203
+    icon: []
+    type: 2
+    desc:
+    hint:
+    rewardAmount: 1200
+    costType: 0
+    costAmount: 0
+  - productId: 204
+    icon: []
+    type: 2
+    desc:
+    hint:
+    rewardAmount: 2500
+    costType: 0
+    costAmount: 0
+  - productId: 205
+    icon: []
+    type: 2
+    desc:
+    hint:
+    rewardAmount: 6500
+    costType: 0
+    costAmount: 0
+  - productId: 206
+    icon: []
+    type: 2
+    desc:
+    hint:
+    rewardAmount: 14000
+    costType: 0
+    costAmount: 0
+  - productId: 301
+    icon: []
+    type: 4
+    desc:
+    hint:
+    rewardAmount: 4
+    costType: 2
+    costAmount: 35
+  - productId: 302
+    icon: []
+    type: 4
+    desc:
+    hint:
+    rewardAmount: 12
+    costType: 2
+    costAmount: 90
+  - productId: 303
+    icon: []
+    type: 4
+    desc:
+    hint:
+    rewardAmount: 48
+    costType: 2
+    costAmount: 288
+  - productId: 1002
+    icon: []
+    type: 10
+    desc:
+    hint:
+    rewardAmount:
+    costType: 0
+    costAmount: 0

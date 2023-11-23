@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 3d77626c927b3174492c563f62e74f5a
+timeCreated: 1700560847
+licenseType: Free
+PrefabImporter:
+  externalObjects: {}
+  addedObjectFileIDs: []
+  isPrefabVariant: 0
+  userData:
+  assetBundleName: res/foldermode/prefabs/ui/offlinepanel.bundle
+  assetBundleVariant:

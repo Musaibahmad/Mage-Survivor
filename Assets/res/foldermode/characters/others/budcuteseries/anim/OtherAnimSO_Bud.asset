@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b85780556c37f1035b781c452205b19d, type: 3}
+  m_Name: OtherAnimSO_Bud
+  m_EditorClassIdentifier:
+  m_AnimationSOList:
+  - state: Idle
+    clip:
+      _FadeDuration: 0.25
+      _Events:
+        _NormalizedTimes: []
+        _Callbacks: []
+        _Names: []
+      _Clip: {fileID: 7400000, guid: 6324ac2a56968dd419ebb14d0ee3a403, type: 2}
+      _Speed: 1
+      _NormalizedStartTime: NaN
+  - state: Walk
+    clip:
+      _FadeDuration: 0.25
+      _Events:
+        _NormalizedTimes: []
+        _Callbacks: []
+        _Names: []
+      _Clip: {fileID: 7400000, guid: 6324ac2a56968dd419ebb14d0ee3a403, type: 2}
+      _Speed: 1
+      _NormalizedStartTime: NaN
+  - state: Run
+    clip:
+      _FadeDuration: 0.25
+      _Events:
+        _NormalizedTimes: []
+        _Callbacks: []
+        _Names: []
+      _Clip: {fileID: 7400000, guid: 6324ac2a56968dd419ebb14d0ee3a403, type: 2}
+      _Speed: 1
+      _NormalizedStartTime: NaN
+  - state: Hit
+    clip:
+      _FadeDuration: 0.25
+      _Events:
+        _NormalizedTimes: []
+        _Callbacks: []
+        _Names: []
+      _Clip: {fileID: 7400000, guid: 6324ac2a56968dd419ebb14d0ee3a403, type: 2}
+      _Speed: 1
+      _NormalizedStartTime: NaN
+  - state: Born
+    clip:
+      _FadeDuration: 0.25
+      _Events:
+        _NormalizedTimes: []
+        _Callbacks: []
+        _Names: []
+      _Clip: {fileID: 7400000, guid: 1d8b343826855c5469ce70f23d736d80, type: 2}
+      _Speed: 1
+      _NormalizedStartTime: NaN
+  - state: Attack
+    clip:
+      _FadeDuration: 0.25
+      _Events:
+        _NormalizedTimes: []
+        _Callbacks: []
+        _Names: []
+      _Clip: {fileID: 7400000, guid: 337ff996ab92cd84a8632db6224ff444, type: 2}
+      _Speed: 1
+      _NormalizedStartTime: NaN
+  - state: Skill
+    clip:
+      _FadeDuration: 0.25
+      _Events:
+        _NormalizedTimes: []
+        _Callbacks: []
+        _Names: []
+      _Clip: {fileID: 7400000, guid: ebf84c88b35053942801a9a5d1bc79ea, type: 2}
+      _Speed: 1
+      _NormalizedStartTime: NaN
+  - state: Die
+    clip:
+      _FadeDuration: 0.25
+      _Events:
+        _NormalizedTimes: []
+        _Callbacks: []
+        _Names: []
+      _Clip: {fileID: 7400000, guid: 6324ac2a56968dd419ebb14d0ee3a403, type: 2}
+      _Speed: 1
+      _NormalizedStartTime: NaN

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: bcfc12dc083ed5f4d84d417e61b5f278
+timeCreated: 1700560847
+licenseType: Free
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData:
+  assetBundleName: res/foldermode/shader/ui/talentpanel.bundle
+  assetBundleVariant:

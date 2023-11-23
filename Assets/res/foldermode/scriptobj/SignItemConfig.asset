@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 266de08c382f5161f9c73357d6295680, type: 3}
+  m_Name: SignItemConfig
+  m_EditorClassIdentifier:
+  rewardConf:
+  - rewardType: 1
+    icon: {fileID: 0}
+    rewardDes: x120
+    rewardInfo: 120
+  - rewardType: 1
+    icon: {fileID: 0}
+    rewardDes: x300
+    rewardInfo: 300
+  - rewardType: 1
+    icon: {fileID: 0}
+    rewardDes: x600
+    rewardInfo: 600
+  - rewardType: 1
+    icon: {fileID: 0}
+    rewardDes: x800
+    rewardInfo: 800
+  - rewardType: 1
+    icon: {fileID: 0}
+    rewardDes: x1000
+    rewardInfo: 1000
+  - rewardType: 1
+    icon: {fileID: 0}
+    rewardDes: x1200
+    rewardInfo: 1200
+  - rewardType: 1
+    icon: {fileID: 0}
+    rewardDes: x1500
+    rewardInfo: 1500
+  - rewardType: 1
+    icon: {fileID: 0}
+    rewardDes: x2500
+    rewardInfo: 2500

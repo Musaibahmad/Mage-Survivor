@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6123a6550f0c904121fbe463157e563f, type: 3}
+  m_Name: FBX_Enemy_WoodenMan3_Attack_Take 001.animMap_SO
+  m_EditorClassIdentifier:
+  AnimationTexture: {fileID: 2800000, guid: 55eb33cc595e50b4d9b0b3d044351c0b, type: 3}
+  AnimationLength: 1.1666667
+  isLoop: 0
+  boundMin:
+    x: -0.8778109
+    y: -0.60798985
+    z: 0.0008261204
+  boundMax:
+    x: 0.8778109
+    y: 0.35985076
+    z: 2.2401776
+  isCompresionTexture: 0

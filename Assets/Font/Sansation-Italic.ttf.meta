@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 67211854f8de1fd498342b0db6107e90
+timeCreated: 1700560848
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  externalObjects: {}
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Sansation
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ea6fb578af1293a41a2aa935a624cc07, type: 3}
+  - {fileID: 12800000, guid: 26f7ee0b6f6f6ba4da0b113fcd07cba7, type: 3}
+  - {fileID: 12800000, guid: bc0759803bc26834f832357b275f1604, type: 3}
+  customCharacters:
+  fontRenderingMode: 0
+  output:
+    hasEmptyFontData: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData:
+  assetBundleName:
+  assetBundleVariant:

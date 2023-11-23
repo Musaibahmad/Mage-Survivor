@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6123a6550f0c904121fbe463157e563f, type: 3}
+  m_Name: FBX_Enemy_Worm3_Skill_Take 001.animMap_SO
+  m_EditorClassIdentifier:
+  AnimationTexture: {fileID: 2800000, guid: a63a5da0be77e7a469829bfc35038e62, type: 3}
+  AnimationLength: 1.1666667
+  isLoop: 0
+  boundMin:
+    x: -1.2085866
+    y: -1.5336936
+    z: -0.047413588
+  boundMax:
+    x: 1.2085866
+    y: 2.3669374
+    z: 3.5658026
+  isCompresionTexture: 0

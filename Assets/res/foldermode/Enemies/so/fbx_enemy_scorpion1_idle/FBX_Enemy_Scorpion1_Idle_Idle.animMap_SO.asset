@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6123a6550f0c904121fbe463157e563f, type: 3}
+  m_Name: FBX_Enemy_Scorpion1_Idle_Idle.animMap_SO
+  m_EditorClassIdentifier:
+  AnimationTexture: {fileID: 2800000, guid: 443cf831635062940a44192ae03ca406, type: 3}
+  AnimationLength: 1
+  isLoop: 1
+  boundMin:
+    x: -0.6280422
+    y: -0.7825953
+    z: -0.00131464
+  boundMax:
+    x: 0.62804246
+    y: 0.53927743
+    z: 1.2646127
+  isCompresionTexture: 0

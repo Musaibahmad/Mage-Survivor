@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6123a6550f0c904121fbe463157e563f, type: 3}
+  m_Name: FBX_Enemy_Bat3_Hit_Take 001.animMap_SO
+  m_EditorClassIdentifier:
+  AnimationTexture: {fileID: 2800000, guid: bdd48488c79b76d47b219c016984def6, type: 3}
+  AnimationLength: 0.6666667
+  isLoop: 0
+  boundMin:
+    x: -1.7131716
+    y: -0.82402337
+    z: 0.0019323826
+  boundMax:
+    x: 1.7131716
+    y: 0.88471735
+    z: 2.1791527
+  isCompresionTexture: 0

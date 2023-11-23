@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6123a6550f0c904121fbe463157e563f, type: 3}
+  m_Name: FBX_Enemy_TankerRobot1_Die_Take 001.animMap_SO
+  m_EditorClassIdentifier:
+  AnimationTexture: {fileID: 2800000, guid: 984afe7e2c5943848bae70ccb26f22c8, type: 3}
+  AnimationLength: 1.6666667
+  isLoop: 0
+  boundMin:
+    x: -0.35248742
+    y: -0.32707113
+    z: -0.00081157684
+  boundMax:
+    x: 0.35248742
+    y: 0.35575247
+    z: 1.4419496
+  isCompresionTexture: 0

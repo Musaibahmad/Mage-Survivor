@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6123a6550f0c904121fbe463157e563f, type: 3}
+  m_Name: FBX_Enemy_EggCute1_Walk_Jump Forward In Place.animMap_SO
+  m_EditorClassIdentifier:
+  AnimationTexture: {fileID: 2800000, guid: ea1b4802d7eb7104aa1a70cfa3d0e67c, type: 3}
+  AnimationLength: 0.6666667
+  isLoop: 1
+  boundMin:
+    x: -0.32155818
+    y: -0.32155818
+    z: 0
+  boundMax:
+    x: 0.32155818
+    y: 0.32399094
+    z: 1.0516149
+  isCompresionTexture: 0

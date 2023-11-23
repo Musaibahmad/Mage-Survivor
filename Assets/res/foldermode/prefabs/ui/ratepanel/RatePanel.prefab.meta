@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 4353cb8235d606a41a25f55780d7d086
+timeCreated: 1700560847
+licenseType: Free
+PrefabImporter:
+  externalObjects: {}
+  addedObjectFileIDs: []
+  isPrefabVariant: 0
+  userData:
+  assetBundleName: res/foldermode/prefabs/ui/ratepanel.bundle
+  assetBundleVariant:

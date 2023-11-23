@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6123a6550f0c904121fbe463157e563f, type: 3}
+  m_Name: FBX_Enemy_PinkWorm1_Attack_Take 001.animMap_SO
+  m_EditorClassIdentifier:
+  AnimationTexture: {fileID: 2800000, guid: bff03c9385473af4bb7051bfb218821e, type: 3}
+  AnimationLength: 0.8333334
+  isLoop: 0
+  boundMin:
+    x: -0.30796084
+    y: -0.51925355
+    z: -0.014704049
+  boundMax:
+    x: 0.30796084
+    y: 0.5410548
+    z: 0.5341055
+  isCompresionTexture: 0

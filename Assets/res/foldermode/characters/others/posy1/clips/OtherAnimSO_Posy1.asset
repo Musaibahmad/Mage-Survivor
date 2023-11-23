@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b85780556c37f1035b781c452205b19d, type: 3}
+  m_Name: OtherAnimSO_Posy1
+  m_EditorClassIdentifier:
+  m_AnimationSOList:
+  - state: Idle
+    clip:
+      _FadeDuration: 0.25
+      _Events:
+        _NormalizedTimes: []
+        _Callbacks: []
+        _Names: []
+      _Clip: {fileID: 7400000, guid: 54f92565792b55f4382d8ec5b32640f7, type: 2}
+      _Speed: 1
+      _NormalizedStartTime: NaN
+  - state: Walk
+    clip:
+      _FadeDuration: 0.25
+      _Events:
+        _NormalizedTimes: []
+        _Callbacks: []
+        _Names: []
+      _Clip: {fileID: 7400000, guid: 54f92565792b55f4382d8ec5b32640f7, type: 2}
+      _Speed: 1
+      _NormalizedStartTime: NaN
+  - state: Run
+    clip:
+      _FadeDuration: 0.25
+      _Events:
+        _NormalizedTimes: []
+        _Callbacks: []
+        _Names: []
+      _Clip: {fileID: 7400000, guid: 54f92565792b55f4382d8ec5b32640f7, type: 2}
+      _Speed: 1
+      _NormalizedStartTime: NaN
+  - state: Attack
+    clip:
+      _FadeDuration: 0.25
+      _Events:
+        _NormalizedTimes: []
+        _Callbacks: []
+        _Names: []
+      _Clip: {fileID: 7400000, guid: dcfabf55f7a42284cb4551130cfd2f58, type: 2}
+      _Speed: 1
+      _NormalizedStartTime: NaN

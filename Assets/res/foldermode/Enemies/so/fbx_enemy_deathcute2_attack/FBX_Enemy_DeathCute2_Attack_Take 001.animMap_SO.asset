@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6123a6550f0c904121fbe463157e563f, type: 3}
+  m_Name: FBX_Enemy_DeathCute2_Attack_Take 001.animMap_SO
+  m_EditorClassIdentifier:
+  AnimationTexture: {fileID: 2800000, guid: 93bc146c8747b3246b95139d632de758, type: 3}
+  AnimationLength: 0.8333334
+  isLoop: 0
+  boundMin:
+    x: -0.5550093
+    y: -0.55326134
+    z: 0.2565624
+  boundMax:
+    x: 0.5550093
+    y: 0.5532617
+    z: 2.005524
+  isCompresionTexture: 0

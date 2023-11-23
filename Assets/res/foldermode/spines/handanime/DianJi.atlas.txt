@@ -1,0 +1,20 @@
+
+DianJi.png
+size: 257,147
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+光圈
+  rotate: true
+  xy: 170, 15
+  size: 130, 85
+  orig: 135, 91
+  offset: 2, 3
+  index: -1
+手
+  rotate: false
+  xy: 2, 2
+  size: 166, 143
+  orig: 166, 143
+  offset: 0, 0
+  index: -1

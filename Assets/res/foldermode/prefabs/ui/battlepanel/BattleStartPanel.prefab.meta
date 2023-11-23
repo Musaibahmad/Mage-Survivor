@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 63cdc7ad4c6838344adbeb4f0243ffb3
+timeCreated: 1700560848
+licenseType: Free
+PrefabImporter:
+  externalObjects: {}
+  addedObjectFileIDs: []
+  isPrefabVariant: 0
+  userData:
+  assetBundleName: res/foldermode/prefabs/ui/battlepanel.bundle
+  assetBundleVariant:

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 152861061c39657efee1b171fffa696a, type: 3}
+  m_Name: SignPanelSpritesData
+  m_EditorClassIdentifier:
+  m_AtlasName: Assets/Res/FolderMode/Sprites/UI2_0/SignPanel
+  m_SpriteList:
+  - {fileID: 21300000, guid: 2979fda5fad5b13438aa1b8d619aa7d2, type: 2}
+  - {fileID: 21300000, guid: 4a6f00ddb99d319468c88fe06cc41dfe, type: 2}
+  - {fileID: 21300000, guid: 46b3c4ca36c6ce14fa96cf1574e4240b, type: 2}
+  - {fileID: 21300000, guid: c02046c43ab5ec14d881761680c1841c, type: 2}
+  - {fileID: 21300000, guid: 9e0597317b3558f4d95b9e4c209cab60, type: 2}
+  - {fileID: 21300000, guid: b260e167829c3104eb157816ed81e90c, type: 2}
+  - {fileID: 21300000, guid: 7102be80b7c934d42ae48f58472cb5ea, type: 2}
+  - {fileID: 21300000, guid: 453e13547ae43c94c886aadb2bb4845c, type: 2}
+  - {fileID: 21300000, guid: 84fc304639434684c86f4dd5c8d566a1, type: 2}
+  - {fileID: 21300000, guid: de994bd442e1bca46959a6cc7feee3ca, type: 2}
+  - {fileID: 21300000, guid: 07571871762006f43bd2d4d760285b60, type: 2}
+  - {fileID: 21300000, guid: 771403e375653a54c81033a73cae453b, type: 2}

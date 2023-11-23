@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 152861061c39657efee1b171fffa696a, type: 3}
+  m_Name: EliteChestPanelSpritesData
+  m_EditorClassIdentifier:
+  m_AtlasName: Assets/Res/FolderMode/Sprites/UI2_0/EliteChestPanel
+  m_SpriteList:
+  - {fileID: 21300000, guid: 549ae2be855cf8544b64f6a7ab6f303f, type: 2}
+  - {fileID: 21300000, guid: 153c42c123ed9cc4bba48a5eae93f13a, type: 2}
+  - {fileID: 21300000, guid: 0fe1de2d73b56f6489bcf3368c9f31d4, type: 2}
+  - {fileID: 21300000, guid: 4d506eb02e6840a4ba6235c041d292bb, type: 2}
+  - {fileID: 21300000, guid: 81fa61c26aacf4e47a587d54c303f9c2, type: 2}
+  - {fileID: 21300000, guid: 6fee2f6118fa183488ef98968661ef6b, type: 2}
+  - {fileID: 21300000, guid: 30146a43e9e0d6040a21da615e42be81, type: 2}
+  - {fileID: 21300000, guid: 3052212d6fa80234b87be17b10f36928, type: 2}
+  - {fileID: 21300000, guid: 235b095bd7aea4a45a3a0c3bdeac2c43, type: 2}
+  - {fileID: 21300000, guid: f044a41993f32444a9b8c583ff778aa4, type: 2}

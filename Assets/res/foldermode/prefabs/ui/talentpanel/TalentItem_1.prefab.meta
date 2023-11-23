@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: c26f9e6c4d2da0d4caaa3e6883ac63b7
+timeCreated: 1700560847
+licenseType: Free
+PrefabImporter:
+  externalObjects: {}
+  addedObjectFileIDs: []
+  isPrefabVariant: 0
+  userData:
+  assetBundleName: res/foldermode/prefabs/ui/talentpanel.bundle
+  assetBundleVariant:

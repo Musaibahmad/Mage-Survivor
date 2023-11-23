@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 6659ae0880fa9b34caf29e682d793a59
+timeCreated: 1700560848
+licenseType: Free
+PrefabImporter:
+  externalObjects: {}
+  addedObjectFileIDs: []
+  isPrefabVariant: 0
+  userData:
+  assetBundleName: res/foldermode/prefabs/ui/battleprogresspanel.bundle
+  assetBundleVariant:

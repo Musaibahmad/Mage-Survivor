@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c42afa66ffdc4c538c232bd963da8700, type: 3}
+  m_Name: TaskItemConfig
+  m_EditorClassIdentifier:
+  dailyTasks:
+  - groupTasks:
+    - uid: 1
+      icon: {fileID: 0}
+      handlerName: UpgradeTaskHandler
+      desc: Task_upgrade
+      goalInfo: 1
+      rewardType: 2
+      rewardAmount: 8
+      rewardMaxRate: 3
+    - uid: 2
+      icon: {fileID: 0}
+      handlerName: UpgradeTaskHandler
+      desc: Task_upgrade
+      goalInfo: 18
+      rewardType: 2
+      rewardAmount: 15
+      rewardMaxRate: 2
+    - uid: 3
+      icon: {fileID: 0}
+      handlerName: UpgradeTaskHandler
+      desc: Task_upgrade
+      goalInfo: 30
+      rewardType: 2
+      rewardAmount: 20
+      rewardMaxRate: 2
+  - groupTasks:
+    - uid: 4
+      icon: {fileID: 0}
+      handlerName: HireMgrTaskHandler
+      desc: Task_manager
+      goalInfo: 3
+      rewardType: 2
+      rewardAmount: 10
+      rewardMaxRate: 3
+    - uid: 5
+      icon: {fileID: 0}
+      handlerName: HireMgrTaskHandler
+      desc: Task_manager
+      goalInfo: 10
+      rewardType: 2
+      rewardAmount: 20
+      rewardMaxRate: 2
+    - uid: 6
+      icon: {fileID: 0}
+      handlerName: HireMgrTaskHandler
+      desc: Task_manager
+      goalInfo: 20
+      rewardType: 2
+      rewardAmount: 25
+      rewardMaxRate: 2
+  - groupTasks:
+    - uid: 7
+      icon: {fileID: 0}
+      handlerName: VehicleGoTaskHandler
+      desc: Task_truck
+      goalInfo: 5
+      rewardType: 2
+      rewardAmount: 8
+      rewardMaxRate: 3
+    - uid: 8
+      icon: {fileID: 0}
+      handlerName: VehicleGoTaskHandler
+      desc: Task_truck
+      goalInfo: 20
+      rewardType: 2
+      rewardAmount: 12
+      rewardMaxRate: 3
+    - uid: 9
+      icon: {fileID: 0}
+      handlerName: VehicleGoTaskHandler
+      desc: Task_truck
+      goalInfo: 40
+      rewardType: 2
+      rewardAmount: 20
+      rewardMaxRate: 2
+  extraDailyTasks:
+  - uid: 10
+    icon: {fileID: 0}
+    handlerName: DailyCompleteTaskHandler
+    desc: Task_complete
+    goalInfo: 5
+    rewardType: 2
+    rewardAmount: 20
+    rewardMaxRate: 2
+  - uid: 11
+    icon: {fileID: 0}
+    handlerName: DailyCompleteTaskHandler
+    desc: Task_complete
+    goalInfo: 9
+    rewardType: 2
+    rewardAmount: 30
+    rewardMaxRate: 2

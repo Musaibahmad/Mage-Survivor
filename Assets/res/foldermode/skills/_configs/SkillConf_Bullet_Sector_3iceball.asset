@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45a69cfab9c4d7d0b8319da5e7e87342, type: 3}
+  m_Name: SkillConf_Bullet_Sector_3iceball
+  m_EditorClassIdentifier:
+  id: 103
+  name: 扇形子弹发射器
+  targetType: 1
+  triggerAreaType: 1
+  singleCastRange: 8
+  triggerAreaTime: -1
+  triggerAreaOffset:
+    x: 0
+    y: 0
+    z: 0
+  triggerAngle: 0
+  sectorRange:
+    x: 8
+    y: 45
+  rectRange:
+    x: 2
+    y: 10
+  triggerAffectType: 2
+  indicateTime: 0.6
+  preloadTime: 0.3
+  triggerTime: 0.3
+  animFadeTime: 0.1
+  animSpd: 1.2
+  cdTime: 10
+  skillFunc: 3
+  skillDmgRatio: 1.5
+  bulletId: 44
+  hasRealBulletCountIndicator: 1
+  bulletIndicateDeltaTime: 0.1
+  bulletCastDeltaTime: 0.1
+  isTrackTarget: 0
+  continuousTimes: 3
+  alwayShowIndicator: 0
+  isRandomPosCastBullet: 0
+  dashHitRadius: 1
+  dashCount: 3
+  dashDur: 0.6
+  jumpAtkADis: 3
+  summonID: -1
+  summonNum: 0
+  thornCount: 3
+  thornInterval: 0
+  flashDis: 2
+  flashDur: 0.6
+  skillCastEff:
+  skillHitEff:
+  skillCastAudio:
+  skillHitAudio:

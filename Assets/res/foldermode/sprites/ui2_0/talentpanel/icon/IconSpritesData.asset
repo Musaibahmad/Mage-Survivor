@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 152861061c39657efee1b171fffa696a, type: 3}
+  m_Name: IconSpritesData
+  m_EditorClassIdentifier:
+  m_AtlasName: Assets/Res/FolderMode/Sprites/UI2_0/TalentPanel/Icon
+  m_SpriteList:
+  - {fileID: 21300000, guid: 12aff51a28a25344eb9405a1c0e750c4, type: 2}
+  - {fileID: 21300000, guid: 655deac8128debd4fa3b8e747175173e, type: 2}
+  - {fileID: 21300000, guid: 0cdd3db59f0ba674eb7ad02453ec0e84, type: 2}
+  - {fileID: 21300000, guid: 9a9c1fd86854cfd48840ce282b4e35fc, type: 2}
+  - {fileID: 21300000, guid: 05cd4ed7bf163d246b6ca90a69821ad2, type: 2}
+  - {fileID: 21300000, guid: 70625597ac110474890d1be2ffef55e4, type: 2}
+  - {fileID: 21300000, guid: b5a618a4bf871b144a4331ac8009b26e, type: 2}
+  - {fileID: 21300000, guid: cef6b312b73dc3c47b162b7a08682cfb, type: 2}
+  - {fileID: 21300000, guid: 7b8d93320c4fbf04da11c8e69d66eee9, type: 2}
+  - {fileID: 21300000, guid: 4448996faa27c954dabc5bdca676cd87, type: 2}
+  - {fileID: 21300000, guid: e6bda3201d082bf4697d10bbb1de931f, type: 2}
+  - {fileID: 21300000, guid: 08711de650d5f2b4d8f9b36f270fa664, type: 2}
+  - {fileID: 21300000, guid: f352687eb6553ab4dba68ecbb57b4e52, type: 2}
+  - {fileID: 21300000, guid: 6f69dc5e690c6ec4e9290fe36c917ac4, type: 2}
+  - {fileID: 21300000, guid: e809478c7431d5343bb5dd54de2a1773, type: 2}
+  - {fileID: 21300000, guid: 0abd1e92aae8bbd4e955573b8a244c83, type: 2}

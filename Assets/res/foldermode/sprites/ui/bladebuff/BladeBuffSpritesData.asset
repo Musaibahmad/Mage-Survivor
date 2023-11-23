@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 152861061c39657efee1b171fffa696a, type: 3}
+  m_Name: BladeBuffSpritesData
+  m_EditorClassIdentifier:
+  m_AtlasName: Assets/Res/FolderMode/Sprites/UI/BladeBuff
+  m_SpriteList:
+  - {fileID: 21300000, guid: 2d93a727ee6499545a5d31eecf024a3c, type: 2}
+  - {fileID: 21300000, guid: 0e87f3c3b5d1da84faa3aac79c656f23, type: 2}
+  - {fileID: 21300000, guid: e4bad1997b8ab5f49850d4dc324790cf, type: 2}
+  - {fileID: 21300000, guid: c9d0907817e474144b532073cc358d78, type: 2}
+  - {fileID: 21300000, guid: bcf80fa7e997c5c439de36ade48796d2, type: 2}
+  - {fileID: 21300000, guid: 0dc79675ec408e44a998644d1e15e2d2, type: 2}

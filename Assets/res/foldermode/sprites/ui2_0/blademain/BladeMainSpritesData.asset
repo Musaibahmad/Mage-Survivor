@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 152861061c39657efee1b171fffa696a, type: 3}
+  m_Name: BladeMainSpritesData
+  m_EditorClassIdentifier:
+  m_AtlasName: Assets/Res/FolderMode/Sprites/UI/BladeMain
+  m_SpriteList:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 21300000, guid: 217b9d2c2c801f540b104530a388685e, type: 2}
+  - {fileID: 21300000, guid: 2070c94bd12688f4ebc4d8881d2a02d5, type: 2}
+  - {fileID: 0}
+  - {fileID: 21300000, guid: 40975dc9d495d4f4e910d8691a6eea6f, type: 2}
+  - {fileID: 21300000, guid: 1d27f5152cf161740bde918be97f88b3, type: 2}
+  - {fileID: 21300000, guid: d7cda4d0cba8928468f031bb1ced80ae, type: 2}
+  - {fileID: 21300000, guid: 93544436ce2166147922d07d8ab6be6d, type: 2}
+  - {fileID: 21300000, guid: 9a62b11f58b1ed244b2c4efcfb210465, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 21300000, guid: 415015328e5f44f45843c7501fd40156, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}

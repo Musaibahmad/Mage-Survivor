@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Mat_wave3
+  m_Shader: {fileID: 4800000, guid: e2dba7b6e59444a44a5f7496947f3035, type: 3}
+  m_ShaderKeywords: _COLORADDSUBDIFF_ON _FADING_ON _SOFTPARTICLES_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+  stringTagMap:
+  - RenderType: Transparent
+  disabledShaderPasses:
+  - SHADOWCASTER
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 2800000, guid: 82fe5632edab93841bb70412dd6d9df1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Boolean_1583632C: 0
+    - Boolean_28BAB8F5: 0
+    - Boolean_2F825EFD: 0
+    - Boolean_33CE7379: 0
+    - Boolean_3D5F73B6: 0
+    - Boolean_4998132E: 0
+    - Boolean_5CFE04A9: 0
+    - Boolean_5D861F0D: 0
+    - Boolean_644175D8: 0
+    - Boolean_7250164F: 0
+    - Boolean_7525C689: 0
+    - Boolean_7E33FC31: 0
+    - Boolean_8F04D9DF: 0
+    - Boolean_A019291E: 0
+    - Boolean_B4A3D1C6: 0
+    - Boolean_B825C0E9: 0
+    - Boolean_BB04EF6F: 0
+    - Boolean_C7446EFF: 0
+    - Boolean_D6BDD2A3: 0
+    - Boolean_D74BA162: 0
+    - Boolean_DA18A82E: 0
+    - Boolean_EA700734: 0
+    - Boolean_EC449A6B: 0
+    - Vector1_1748F66D: 1
+    - Vector1_31E63CCF: 0
+    - Vector1_40EE72BA: 1
+    - Vector1_73004C52: 0
+    - Vector1_977F62F6: 0
+    - Vector1_9EBD7C75: 0
+    - Vector1_9F621FC2: 1
+    - Vector1_A5D3354E: 1
+    - Vector1_E7E51992: 0.5
+    - _AlphaClip: 0
+    - _Blend: 0
+    - _BlendOp: 0
+    - _CameraFadingEnabled: 0
+    - _CameraFarFadeDistance: 2
+    - _CameraNearFadeDistance: 1
+    - _ColorMode: 1
+    - _Cull: 2
+    - _Cutoff: 0.5
+    - _DistortionBlend: 0.5
+    - _DistortionEnabled: 0
+    - _DistortionStrength: 1
+    - _DistortionStrengthScaled: 0.1
+    - _DstBlend: 10
+    - _FlipbookBlending: 0
+    - _FlipbookMode: 0
+    - _InvFade: 1
+    - _Mode: 0
+    - _QueueOffset: 0
+    - _SoftParticlesEnabled: 1
+    - _SoftParticlesFarFadeDistance: 3
+    - _SoftParticlesNearFadeDistance: 0
+    - _SrcBlend: 5
+    - _Surface: 1
+    - _ZWrite: 0
+    m_Colors:
+    - Color_1DE1C9D1: {r: 1, g: 1, b: 1, a: 1}
+    - Color_517ECE83: {r: 0.990566, g: 0.08410469, b: 0.08410469, a: 0}
+    - Vector2_C8BC2FF3: {r: 1, g: 1, b: 0, a: 0}
+    - Vector2_E02DABB: {r: 0, g: 0, b: 0, a: 0}
+    - Vector4_366E27B6: {r: 1, g: 1, b: 0.15, a: 0.15}
+    - Vector4_5554771E: {r: 1, g: 1, b: 0, a: 0}
+    - Vector4_67266f824d8a4db7a0201c9525952d7e: {r: 1, g: 1, b: 0, a: 0}
+    - Vector4_9669E409: {r: 1, g: 1, b: 0, a: 0}
+    - Vector4_A0C1AE86: {r: 1, g: 1, b: 0, a: 0}
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _BaseColorAddSubDiff: {r: 1, g: 0, b: 0, a: 0}
+    - _CameraFadeParams: {r: 0, g: Infinity, b: 0, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _SoftParticleFadeParams: {r: 0, g: 0.33333334, b: 0, a: 0}
+    - _TintColor: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
+  m_BuildTextureStacks: []

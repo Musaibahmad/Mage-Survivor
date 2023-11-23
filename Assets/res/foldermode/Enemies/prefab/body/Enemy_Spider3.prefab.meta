@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: b0f1fc49f7265d94cb5c070a8a838cb6
+timeCreated: 1700560856
+licenseType: Free
+PrefabImporter:
+  externalObjects: {}
+  addedObjectFileIDs: []
+  isPrefabVariant: 0
+  userData:
+  assetBundleName: res/foldermode/gpu_animation/prefab/body.bundle
+  assetBundleVariant:
